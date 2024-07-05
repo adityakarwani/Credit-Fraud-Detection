@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1zSZrIR-gGU77uH8WR00a5W9di_f96h-s
 
 
 ## About 
-Fake news detection in machine learning involves collecting a dataset of real and fake news articles, cleaning and preprocessing the text, and converting it into numerical features. Common techniques include TF-IDF and word embeddings. Machine learning models like Logistic Regression, Naive Bayes, or advanced models like LSTM and BERT are trained on this data to classify news articles as real or fake. This helps in identifying and reducing the spread of misinformation.
+Fraud Detection model based on anonymized credit card transactions. It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase..
 
 
 ## Model
